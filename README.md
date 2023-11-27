@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
 
 **🐱 My GitHub Data** 
 
@@ -23,7 +23,7 @@ JavaScript               1 repo              ████████░░░�
 
 
 
- Last Updated on 27/11/2023 12:16:35 UTC
+ Last Updated on 27/11/2023 18:32:29 UTC
 <!--END_SECTION:waka-->
 welcome to lingting's cabin
 maybe I prefer the name lignting instead of loster12520
