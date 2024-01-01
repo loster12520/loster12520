@@ -7,7 +7,7 @@
 
 > 📦 1.6 kB Used in GitHub's Storage 
  > 
-> 🏆 19 Contributions in the Year 2023
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,24 +42,16 @@ Sunday                   2 commits           ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Kotlin                   47 mins             ██████████░░░░░░░░░░░░░░░   39.64 % 
-XML                      29 mins             ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
-JSON                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Java                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-Text                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 1 hr 59 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-simple-bot               1 hr 24 mins        ██████████████████░░░░░░░   70.85 % 
-java-qq-bot              12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-shr25-qq-robot-start-mast11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-simple-bot2              8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-mcp-reborn               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 59 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -72,7 +64,7 @@ JavaScript               1 repo              ████████░░░�
 
 
 
- Last Updated on 31/12/2023 18:30:43 UTC
+ Last Updated on 01/01/2024 18:32:03 UTC
 <!--END_SECTION:waka-->
 welcome to lingting's cabin
 maybe I prefer the name lignting instead of loster12520
