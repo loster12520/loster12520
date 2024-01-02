@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,16 +42,24 @@ Sunday                   2 commits           ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   3 mins              ████████░░░░░░░░░░░░░░░░░   33.54 % 
+GitIgnore file           3 mins              ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Java                     2 mins              ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
+XML                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 10 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          3 mins              ████████░░░░░░░░░░░░░░░░░   33.33 % 
+simple-bot               3 mins              ████████░░░░░░░░░░░░░░░░░   30.11 % 
+chunkbychunk             2 mins              ███████░░░░░░░░░░░░░░░░░░   27.91 % 
+play                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+kotlin_study             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  10 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -64,7 +72,7 @@ JavaScript               1 repo              ████████░░░�
 
 
 
- Last Updated on 01/01/2024 18:32:03 UTC
+ Last Updated on 02/01/2024 18:32:16 UTC
 <!--END_SECTION:waka-->
 welcome to lingting's cabin
 maybe I prefer the name lignting instead of loster12520
