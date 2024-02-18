@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,16 +42,17 @@ Sunday                   2 commits           ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Kotlin                   18 mins             █████████████████████████   100.00 % 
+Kotlin                   47 mins             ████████████████████████░   97.30 % 
+XML                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 
 🔥 Editors: 
-IntelliJ                 18 mins             █████████████████████████   100.00 % 
+IntelliJ                 49 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-order                    18 mins             █████████████████████████   100.00 % 
+order                    49 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  18 mins             █████████████████████████   100.00 % 
+Windows                  49 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -64,7 +65,7 @@ JavaScript               1 repo              ████████░░░�
 
 
 
- Last Updated on 17/02/2024 18:30:47 UTC
+ Last Updated on 18/02/2024 18:30:47 UTC
 <!--END_SECTION:waka-->
 welcome to lingting's cabin
 maybe I prefer the name lignting instead of loster12520
