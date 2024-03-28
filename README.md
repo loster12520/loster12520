@@ -7,8 +7,6 @@
 
 > 📦 1.7 kB Used in GitHub's Storage 
  > 
-> 🏆 17 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 7 Public Repositories 
@@ -65,7 +63,7 @@ JavaScript               1 repo              █████░░░░░░�
 
 
 
- Last Updated on 27/03/2024 18:30:59 UTC
+ Last Updated on 28/03/2024 18:31:10 UTC
 <!--END_SECTION:waka-->
 welcome to lingting's cabin
 maybe I prefer the name lignting instead of loster12520
