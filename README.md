@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2054%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -63,7 +63,7 @@ JavaScript               1 repo              █████░░░░░░�
 
 
 
- Last Updated on 03/04/2024 18:31:54 UTC
+ Last Updated on 04/04/2024 18:31:43 UTC
 <!--END_SECTION:waka-->
 welcome to lingting's cabin
 maybe I prefer the name lignting instead of loster12520
