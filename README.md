@@ -81,6 +81,8 @@
 - ![](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white) **Maven**：Java 生态最流行的构建工具。
 - ![](https://img.shields.io/badge/Gradle_Kotlin-02303A?style=flat&logo=gradle&logoColor=white) **Gradle Kotlin**：支持 Kotlin DSL 的构建工具，灵活且强大。
 
+> **注**：斜体为计划学习内容喵
+
 ---
 
 ## **前端**
